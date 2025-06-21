@@ -25,6 +25,7 @@ Neat thing: UniPatcher allows you to select a file and overwrite the current one
 **PLEASE NOTE**
 
 You WILL NOT want to have the version number be part of your output file name, or your emulator will want to have a new save for it.
+
 If we're debugging something very early in the game, or something that has to do with starting a new game, that would be alright, but as we're going through this, it would be easiest **for you** if you did not have to start a new game every time we made a new patch.
 Once you have a patched ROM, you can play it! Woohoo!
 
