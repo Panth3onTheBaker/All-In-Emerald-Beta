@@ -37,20 +37,21 @@ On this list, if I say "x through y" I mean:
 - Brand new areas to explore
 - Updated trainers
 - Updated gym trainers and gym leader
-0.1.0 Game start through Roxanne
+- 0.1.0 Game start through Roxanne
   - Overall system upgrades, courtesy of PRET and RHH (the link is at the top of the Readme)
-0.2.0 Rustboro gym through Dewford gym, including the Granite Cave
-0.3.0 Dewford gym through Mauville gym
-0.4.0 Mauville gym through Lavaridge gym
-0.5.0 Lavaridge gym through Petalburg gym - much of the area is retreading same ground, but this will include updates to the desert biome and the tower that appears there.
-0.6.0 Petalburg gym through Fortree gym
-0.6.2 Fortree gym through Mt. Pyre
-0.6.4 Mt. Pyre through Magma Hideout
-0.6.6 Magma Hideout through Aqua Hideout
-0.7.0 Aqua Hideout through Mossdeep gym
-0.7.2 Mossdeep gym through Shoal Cave
-0.7.4 Shoal Cave through initial Sootopolis visit
-0.7.6 Initial Sootopolis visit through Sky Pillar
-0.8.0 Sky Pillar through Sootopolis Gym
-0.9.0 Sootopolis Gym through Elite 4
-1.0.0 Cleanup, post-game, official release
+- 0.2.0 Rustboro gym through Dewford gym, including the Granite Cave
+- 0.3.0 Dewford gym through Mauville gym
+- 0.4.0 Mauville gym through Lavaridge gym
+- 0.5.0 Lavaridge gym through Petalburg gym
+   - much of the area is retreading same ground, but this will include updates to the desert biome and the tower that appears there.
+- 0.6.0 Petalburg gym through Fortree gym
+- 0.6.2 Fortree gym through Mt. Pyre
+- 0.6.4 Mt. Pyre through Magma Hideout
+- 0.6.6 Magma Hideout through Aqua Hideout
+- 0.7.0 Aqua Hideout through Mossdeep gym
+- 0.7.2 Mossdeep gym through Shoal Cave
+- 0.7.4 Shoal Cave through initial Sootopolis visit
+- 0.7.6 Initial Sootopolis visit through Sky Pillar
+- 0.8.0 Sky Pillar through Sootopolis Gym
+- 0.9.0 Sootopolis Gym through Elite 4
+- 1.0.0 Cleanup, post-game, official release
