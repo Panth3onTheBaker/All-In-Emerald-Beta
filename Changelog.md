@@ -36,3 +36,13 @@ Minor patches may include new additions to areas, additional events, more NPCs, 
 * As of this patch, all HMs are by default forgettable. Options Man does not currently toggle this.
 * Professor Birch is currently standing in Rustboro's Pokémon Center. If you talk to him, you get the National Dex upgrade, which is nice, since otherwise all national Pokémon are #0000.
 * On game initializing, Birch also now gives you the National Dex from the start.
+
+0.2.1 Adjustments
+
+* Added the Roxanne Tera Orb tutorial
+* Fixed Mr. Briney's movement event from Petalburg > Dewford and back, so now you can actually land on Dewford which is nice.
+* Updated Granite Cave layout, added fossils!
+* &nbsp;	I am aware that the Fossil Guy has some weird directional things. I stared at this for a couple hours before deciding that I would just have to come back to it.
+* Fixed the Dewford Dojo guy to correctly push you back from the door
+* &nbsp;	There's still some weirdness where the second time+ you try to push past the guy, the player character turns down when stopped. I haven't yet figured that out, but it's in my list of things to get sorted (eventually)
+* Fixed the surprise at the end of the Dojo
