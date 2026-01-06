@@ -8,6 +8,31 @@ In all proceeding entries, the major patches (0.x.0) include:
 
 Minor patches may include new additions to areas, additional events, more NPCs, and more as noted.
 
+
+
+0.3.0 Dewford Gym to Mauville Gym
+
+* Fixed where the player avatar warps to after the intro Zigzagoon fight, so Birch is no longer talking to thin air
+* Professor Birch now gives the EXP share at the same time that he gives you the Pokedex, which allows you to toggle party EXP share from your backpack
+* The Pokedex also now automatically includes the National Dex
+* Fossil Maniac in Granite Cave now correctly faces the player, as does the guy who checks your badge outside the Dewford Dojo
+* Cleaned up the Roxanne Tera Orb text, fixing a funky break in the text.
+* Petalburg Woods 2F is now shorter, height-wise. There was a lot of space that looked nice in the map editor, but it was too much nothing to walk through. There is now less nothing.
+* HMs are now CORRECTLY forgettable. Additionally, you no longer need to have the HM taught to a Pokémon to use it in the field. As long as you have the HM in your bag and have the prerequisite gym badge, you can use it (like in more modern Pokémon games)
+* Devon Corp president will now gift you a Z-Power Ring based on your starter instead of the EXP share he gives in the base game after delivering the letter to Steven.
+* The Summary Screen can now be toggled to show IVs and EVs
+* All Cooltrainer class trainers are Double Battles by default
+* Gym Leaders are now smarter, tougher, and correctly have an Ace
+* Options Man in Oldale Town now has a toggle for turning all battles into Double Battles. Eventually, I hope to have this be toggleable in the Options menu, but I don't know how to actually add anything to that menu quite yet.
+* Fishing has been update for all routes covered from 0.1-0.3
+* Lilycove City (not seen until much later) Department Store now has a vending machine on the first floor where you can purchase all the starter Pokémon! That's right, all of them!
+
+
+
+\*NOTE\* It has been like 6 months since I had worked on this, so there is possibly some changes that I forgot about and didn't notate previously. Oh well!
+
+
+
 0.1.0 Game Start to Rustboro
 
 * System upgrades, as per the README
@@ -42,7 +67,7 @@ Minor patches may include new additions to areas, additional events, more NPCs, 
 * Added the Roxanne Tera Orb tutorial
 * Fixed Mr. Briney's movement event from Petalburg > Dewford and back, so now you can actually land on Dewford which is nice.
 * Updated Granite Cave layout, added fossils!
-* &nbsp;	I am aware that the Fossil Guy has some weird directional things. I stared at this for a couple hours before deciding that I would just have to come back to it.
+*  	I am aware that the Fossil Guy has some weird directional things. I stared at this for a couple hours before deciding that I would just have to come back to it.
 * Fixed the Dewford Dojo guy to correctly push you back from the door
-* &nbsp;	There's still some weirdness where the second time+ you try to push past the guy, the player character turns down when stopped. I haven't yet figured that out, but it's in my list of things to get sorted (eventually)
+*  	There's still some weirdness where the second time+ you try to push past the guy, the player character turns down when stopped. I haven't yet figured that out, but it's in my list of things to get sorted (eventually)
 * Fixed the surprise at the end of the Dojo
