@@ -3,10 +3,10 @@
 Based off RHH's pokeemerald-expansion 1.12.0 https://github.com/rh-hideout/pokeemerald-expansion/
 
 Links:
-- The Breadbox Discord (My discord that I am using as a homebase for this)
+- The Breadbox Discord (My Discord that I am using as a homebase for this)
    https://discord.gg/kfSpzzZNk3
-- 0.1.1 Feedback Link
-   https://docs.google.com/forms/d/e/1FAIpQLSeL7NXKi-77jgjfacn2QUmsWj1L-s_GGspJVqVXLtAgR0_kyg/viewform?usp=header
+- 0.3.0 Feedback Link
+   https://docs.google.com/forms/d/e/1FAIpQLSd20pMdjESNVGDMP2NrCC0fJv2pmvwplVS8_sAnnHlnNjcMxw/viewform?usp=sharing&ouid=104127430117273573126
 
 Thank you for your interest in All-In Emerald
 First, a disclaimer. I can not help you find a ROM for your base file for Pokémon Emerald. I will acknowledge that they are not hard to find, but for the sake of being a good boy, I will make the assumption that you are using a legally obtained version of Pokemon Emerald.
@@ -16,7 +16,7 @@ You will need:
 - A Patcher of some kind. On mobile, I'm using UniPatcher and it has worked really well for me.
 - The latest version of the All- In Emerald patch.
 
-When I'm ready to distribute the first test patch (which I think will be 0.1.0) I will post a GitHub link in Releases, where you will be able to download the patch file.
+When I'm ready to distribute the first test patch (which I think will be 0.1.0) I will post a GitHub link in Releases (in the Breadbox Discord server), where you will be able to download the patch file.
 Then you'll go into your patcher and follow the prompts
 Image shows what it looks like on UniPatcher
 
@@ -38,10 +38,12 @@ On this list, if I say "x through y" I mean:
 - Brand new areas to explore
 - Updated trainers
 - Updated gym trainers and gym leader
+
+  With that said, here is the release track
 - 0.1.0 Game start through Roxanne
   - Overall system upgrades, courtesy of PRET and RHH (the link is at the top of the Readme)
 - 0.2.0 Rustboro gym through Dewford gym, including the Granite Cave
-- 0.3.0 Dewford gym through Mauville gym
+- 0.3.0 Dewford gym through Mauville gym **We are here**
 - 0.4.0 Mauville gym through Lavaridge gym
 - 0.5.0 Lavaridge gym through Petalburg gym
    - much of the area is retreading same ground, but this will include updates to the desert biome and the tower that appears there.
